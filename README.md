@@ -149,4 +149,4 @@ Linux and MacOS binaries are available for both x86-64 and arm64 architectures.
 ## Running tests
 
 Tests are executed by running `ctest` in the build directory. See `doc/Tests.md` for more information.
-   
+    
